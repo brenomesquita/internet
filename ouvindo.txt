@@ -1,0 +1,52 @@
+Conexões Internet Ativas (somente servidores)
+Proto Recv-Q Send-Q Endereço Local          Endereço Remoto         Estado       PID/Program name    
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               OUÇA       -                   
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               OUÇA       -                   
+tcp6       0      0 :::80                   :::*                    OUÇA       -                   
+tcp6       0      0 ::1:631                 :::*                    OUÇA       -                   
+udp        0      0 224.0.0.251:5353        0.0.0.0:*                           2636/chrome --type= 
+udp        0      0 224.0.0.251:5353        0.0.0.0:*                           2597/chrome         
+udp        0      0 224.0.0.251:5353        0.0.0.0:*                           2636/chrome --type= 
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:54577           0.0.0.0:*                           -                   
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           -                   
+udp        0      0 0.0.0.0:631             0.0.0.0:*                           -                   
+udp6       0      0 :::5353                 :::*                                -                   
+udp6       0      0 :::43309                :::*                                -                   
+raw6       0      0 :::58                   :::*                    7           -                   
+Domain sockets UNIX ativos (somente servidores)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Caminho
+unix  2      [ ACC ]     SEQPACKET  OUVINDO       16811    -                    /run/udev/control
+unix  2      [ ACC ]     STREAM     OUVINDO       27160    871/systemd          /run/user/1000/systemd/private
+unix  2      [ ACC ]     STREAM     OUVINDO       27164    871/systemd          /run/user/1000/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     OUVINDO       27165    871/systemd          /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     OUVINDO       27166    871/systemd          /run/user/1000/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     OUVINDO       27167    871/systemd          /run/user/1000/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     OUVINDO       27168    871/systemd          /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     OUVINDO       27169    871/systemd          /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     OUVINDO       26919    -                    /tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     OUVINDO       27612    -                    /run/user/1000/keyring/control
+unix  2      [ ACC ]     STREAM     OUVINDO       22333    -                    @irqbalance626.sock
+unix  2      [ ACC ]     STREAM     OUVINDO       27294    -                    /tmp/ssh-V4rCmXKOjN6Z/agent.886
+unix  2      [ ACC ]     STREAM     OUVINDO       29192    -                    /run/user/1000/keyring/ssh
+unix  2      [ ACC ]     STREAM     OUVINDO       28005    886/gnome-session-b  /tmp/.ICE-unix/886
+unix  2      [ ACC ]     STREAM     OUVINDO       29202    -                    /run/user/1000/keyring/pkcs11
+unix  2      [ ACC ]     STREAM     OUVINDO       29568    1120/pulseaudio      /run/user/1000/pulse/native
+unix  2      [ ACC ]     STREAM     OUVINDO       148604   1120/pulseaudio      /run/user/1000/pulse/cli
+unix  2      [ ACC ]     STREAM     OUVINDO       26918    -                    @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     OUVINDO       16799    -                    /run/systemd/private
+unix  2      [ ACC ]     STREAM     OUVINDO       16820    -                    /run/lvm/lvmpolld.socket
+unix  2      [ ACC ]     STREAM     OUVINDO       16822    -                    /run/lvm/lvmetad.socket
+unix  2      [ ACC ]     STREAM     OUVINDO       28355    -                    /run/NetworkManager/private-dhcp
+unix  2      [ ACC ]     STREAM     OUVINDO       16824    -                    /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     OUVINDO       15020    -                    /run/systemd/fsck.progress
+unix  2      [ ACC ]     STREAM     OUVINDO       36620    2597/chrome          /tmp/.com.google.Chrome.ictR4H/SingletonSocket
+unix  2      [ ACC ]     STREAM     OUVINDO       27961    1027/dbus-daemon     @/tmp/dbus-7qOal29M1s
+unix  2      [ ACC ]     STREAM     OUVINDO       31707    1540/slack           /tmp/.org.chromium.Chromium.F0pG7m/SS
+unix  2      [ ACC ]     STREAM     OUVINDO       28004    886/gnome-session-b  @/tmp/.ICE-unix/886
+unix  2      [ ACC ]     STREAM     OUVINDO       22099    -                    /run/uuidd/request
+unix  2      [ ACC ]     STREAM     OUVINDO       22103    -                    /var/run/dbus/system_bus_socket
+unix  2      [ ACC ]     STREAM     OUVINDO       22109    -                    /run/acpid.socket
+unix  2      [ ACC ]     STREAM     OUVINDO       22111    -                    /run/avahi-daemon/socket
+unix  2      [ ACC ]     STREAM     OUVINDO       216727   -                    /run/cups/cups.sock

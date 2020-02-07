@@ -1,0 +1,17 @@
+{
+  "args": {
+    "firstname": "breno"
+  }, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Host": "httpbin.org", 
+    "User-Agent": "lwp-request/6.31 libwww-perl/6.31", 
+    "X-Amzn-Trace-Id": "Root=1-5e3c873d-ca2ed6a067ba8b40e1db9ea0"
+  }, 
+  "json": null, 
+  "method": "GET", 
+  "origin": "187.111.21.18", 
+  "url": "https://httpbin.org/anything?firstname=breno"
+}

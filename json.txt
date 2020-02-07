@@ -1,0 +1,20 @@
+{
+  "args": {}, 
+  "data": "{\"escola\": \"Trybe\"}", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "19", 
+    "Content-Type": "application/json", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0", 
+    "X-Amzn-Trace-Id": "Root=1-5e3c979b-27584fdff0af71aa2d31a514"
+  }, 
+  "json": {
+    "escola": "Trybe"
+  }, 
+  "method": "POST", 
+  "origin": "187.111.21.18", 
+  "url": "https://httpbin.org/anything"
+}

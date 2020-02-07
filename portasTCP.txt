@@ -1,0 +1,23 @@
+Conexões Internet Ativas (servidores e estabelecidas)
+Proto Recv-Q Send-Q Endereço Local          Endereço Remoto         Estado      
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               OUÇA      
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               OUÇA      
+tcp        0      0 192.168.15.44:36374     199.189.87.76:443       ESTABELECIDA
+tcp       32      0 192.168.15.44:36526     23.55.34.100:443        ESPERANDO_FECHAR
+tcp       32      0 192.168.15.44:41516     23.52.117.32:443        ESPERANDO_FECHAR
+tcp        0      0 192.168.15.44:36378     199.189.87.76:443       ESTABELECIDA
+tcp       25      0 192.168.15.44:37888     23.52.118.36:443        ESPERANDO_FECHAR
+tcp       32      0 192.168.15.44:33496     23.52.117.90:443        ESPERANDO_FECHAR
+tcp       25      0 192.168.15.44:37892     23.52.118.36:443        ESPERANDO_FECHAR
+tcp        0      0 192.168.15.44:60296     52.205.143.143:443      ESTABELECIDA
+tcp        0      0 192.168.15.44:50856     18.228.99.199:443       ESTABELECIDA
+tcp        0      0 192.168.15.44:42574     151.101.94.49:443       ESTABELECIDA
+tcp       32      0 192.168.15.44:33494     23.52.117.90:443        ESPERANDO_FECHAR
+tcp        0      0 192.168.15.44:44130     151.101.94.2:443        ESTABELECIDA
+tcp       25      0 192.168.15.44:37878     23.52.118.36:443        ESPERANDO_FECHAR
+tcp        0      0 192.168.15.44:42610     151.101.94.49:443       ESTABELECIDA
+tcp6       0      0 :::80                   :::*                    OUÇA      
+tcp6       0      0 ::1:631                 :::*                    OUÇA      
+tcp6       0      0 2804:7f2:2890:cb2:45738 2606:4700:10::6814::443 ESTABELECIDA
+tcp6       0      0 2804:7f2:2890:cb2:43372 2800:3f0:4003:c01::5228 ESTABELECIDA
+tcp6       0      0 2804:7f2:2890:cb2:49934 2001:4998:3c:800::5:443 ESTABELECIDA
